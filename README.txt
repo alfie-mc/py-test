@@ -1,4 +1,4 @@
-Hello sir!
+Hello there!
 
 I have made various Python files in which each one tests out new things. For example: input.py is a simple input detector. It detects the text you have wrote.
 
